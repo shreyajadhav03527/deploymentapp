@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: shreyajadhav03527/devlopmentapp:latest
+        tags: tenet00/testforactions:latest
